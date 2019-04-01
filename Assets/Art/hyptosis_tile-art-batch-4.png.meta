@@ -6,6 +6,7 @@ TextureImporter:
     21300002: border
     21300004: border2
     21300006: border3
+    21300008: hyptosis_tile-art-batch-4_0
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -178,13 +179,33 @@ TextureImporter:
         width: 13
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
       spriteID: b66ac66159eba4317b65165955b07a31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-4_0
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 195
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e99d117a267747e6a530f08afcbc2e6
       vertices: []
       indices: 
       edges: []
