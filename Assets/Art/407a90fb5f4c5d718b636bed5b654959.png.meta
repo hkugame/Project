@@ -52,6 +52,8 @@ TextureImporter:
     21300094: Wardrobe-side
     21300096: desk
     21300098: bigBed
+    21300100: 407a90fb5f4c5d718b636bed5b654959_44
+    21300102: 407a90fb5f4c5d718b636bed5b654959_45
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -520,7 +522,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 338
-        y: 576
+        y: 577
         width: 46
         height: 144
       alignment: 0
@@ -1144,13 +1146,53 @@ TextureImporter:
         width: 95
         height: 94
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
       spriteID: 8a5de54e2dc1c4be8a7c416c2f5c8506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 407a90fb5f4c5d718b636bed5b654959_44
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 354
+        width: 51
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e4e711ede804ad0a190df4fa4bcd18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 407a90fb5f4c5d718b636bed5b654959_45
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 240
+        width: 142
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ea1fa3e52114261a952d483045c9eb
       vertices: []
       indices: 
       edges: []

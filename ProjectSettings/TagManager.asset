@@ -41,6 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: background
+    uniqueID: 2910861229
+    locked: 0
+  - name: blanket
+    uniqueID: 676661505
+    locked: 0
   - name: Furniture
     uniqueID: 3929978715
     locked: 0
